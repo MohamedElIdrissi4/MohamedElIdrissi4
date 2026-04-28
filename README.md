@@ -13,15 +13,13 @@ I'm a Backend Developer and Computer Science Student with a minor in Mathematics
 
 Languages & Core CS
 
-    Languages: TypeScript, JavaScript, Python, Java, C
+    Languages: TypeScript, JavaScript, Python, Java
 
     Frameworks: Node.js, Express, RESTful APIs
 
-    Messaging: RabbitMQ
-
     Infrastructure: Docker, Linux, Git
 
-    Databases: PostgreSQL, MySQL, Database Design & Query Optimization
+    Databases: PostgreSQL, MySQL
 
     Cloud: AWS (S3, CloudFront), GCP
     
