@@ -1,29 +1,29 @@
-* Hi, I'm Mohamed! 👋
+Hi, I'm Mohamed! 👋
 
-### 👨‍💻 About Me
-
-I'm a Backend Developer and Computer Science Student focused on building scalable, type-safe systems and streamlining deployment workflows. Currently, I'm bridging the gap between clean backend code and efficient DevOps practices.
+I'm a Backend Developer and Computer Science Student with a minor in Mathematics. I focus on building robust, type-safe systems and solving complex problems with an analytical mindset.
 🚀 What I'm Up To
 
-    Backend Developer @ Zeise Digital: Building and scaling backend services for real-world applications.
+    Backend Developer @ Zeise Digital: Currently building and scaling backend systems for production apps.
 
-    Graduate of Boot.dev: Recently completed an intensive backend engineering curriculum focused on JavaScript/TypeScript and architectural patterns.
+    Boot.dev Graduate: Completed a deep dive into Backend Engineering with a focus on JavaScript, TypeScript, and SQL.
 
-    Learning: Diving deeper into KMP (Kotlin Multiplatform) for shared logic and mastering CI/CD pipelines to automate everything.
+    Focus: Writing clean, maintainable code and optimizing API performance.
 
 🛠 Tech Stack
 
     Languages: TypeScript, JavaScript, Python, Java
 
-    Backend: Node.js, Express, PostgreSQL, MySQL
+    Backend: Node.js, Express, RESTful APIs
 
-    DevOps & Tools: Docker, Linux, Git, CI/CD Workflows
+    Database: PostgreSQL, MySQL, Database Design
 
-📚 Currently Reading & Learning
+📚 Professional Interests
 
-    The Pragmatic Programmer 
+    Scalable System Architecture
 
-    Advanced Kubernetes patterns and infrastructure as code.
+    Type-safe Backend Development
+
+    Query Optimization & Schema Design
 
 🤝 Let's Connect
 
