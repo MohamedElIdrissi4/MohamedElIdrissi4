@@ -11,12 +11,20 @@ I'm a Backend Developer and Computer Science Student with a minor in Mathematics
 
 🛠 Tech Stack
 
-    Languages: TypeScript, JavaScript, Python, Java
+Languages & Core CS
 
-    Backend: Node.js, Express, RESTful APIs
+    Languages: TypeScript, JavaScript, Python, Java, C
 
-    Database: PostgreSQL, MySQL, Database Design
+    Frameworks: Node.js, Express, RESTful APIs
 
+    Messaging: RabbitMQ
+
+    Infrastructure: Docker, Linux, Git
+
+    Databases: PostgreSQL, MySQL, Database Design & Query Optimization
+
+    Cloud: AWS (S3, CloudFront), GCP
+    
 📚 Professional Interests
 
     Scalable System Architecture
